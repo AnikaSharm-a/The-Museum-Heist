@@ -1,2 +1,2 @@
 # The-Museum-Heist
-Museum heist game project
+A Museum heist game 
